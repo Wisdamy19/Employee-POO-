@@ -1,5 +1,5 @@
 # Employee-POO-
-Exercícios introdutórios de programação orientada a objetos em Java.
+Introductory exercises in object-oriented programming in Java.
 
 Make a program to read an employee's data (name, gross salary and tax). Then 
 then display the employee's data (name and net salary). Then increase the employee's 
